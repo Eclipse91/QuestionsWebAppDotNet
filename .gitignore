@@ -1,0 +1,66 @@
+# .NET Core
+bin/
+obj/
+
+# ASP.NET Core
+wwwroot/
+
+# User-specific files
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+Desktop.ini
+
+# User-specific files
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istros/
+[Dd]ebugAll/
+[Dd]ebugFinal/
+[Dd]ebug_x64/
+[Dd]ebug_x86/
+[Dd]ebug_win/
+Debug/
+
+# ASP.NET Temporary Files
+*.vspscc
+*.vssscc
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# Microsoft Azure Web App publish directory
+.publish/
