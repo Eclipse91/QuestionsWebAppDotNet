@@ -3,9 +3,10 @@ bin/
 obj/
 
 # ASP.NET Core
-wwwroot/
+lib/
 
 # User-specific files
+.vs/
 .vscode/
 .idea/
 *.user
@@ -54,13 +55,10 @@ Debug/
 # macOS
 .DS_Store
 .AppleDouble
-.LSOverride
-
-# Thumbnails
-Thumbs.db
-
-# JetBrains Rider
-.idea/
+.LSOverrideDesktop.ini
 
 # Microsoft Azure Web App publish directory
 .publish/
+
+# Node.js
+node_modules/
